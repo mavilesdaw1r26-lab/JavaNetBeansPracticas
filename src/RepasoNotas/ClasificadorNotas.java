@@ -8,6 +8,7 @@ public class ClasificadorNotas {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Introduce la nota: ");
         double nota = teclado.nextDouble();
+        //teclado.nextLine(); limpia el buffer siempre después de leer cualquier cosa que no sea un String para evitar errores.
 
         try {
             Calificacion resultado = evaluarNota(nota);
