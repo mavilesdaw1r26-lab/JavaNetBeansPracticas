@@ -1,3 +1,5 @@
+#SEGUNDA SEMANA SIN UN SÓLO COMMIT.
+
 ENRIC ( 29/09)
 Hace falta crear Maps para la gestión de los posibles resultados de los ENUMS. Deja de hacer if/else porque no es escalable.
 Deja de utilizar gemini que te vas a quedar tonto y suspender otra vez.
