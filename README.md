@@ -1,4 +1,4 @@
-#SEGUNDA SEMANA SIN UN SÓLO COMMIT.
+#SEGUNDA SEMANA SIN UN SÓLO COMMIT.#
 
 ENRIC ( 29/09)
 Hace falta crear Maps para la gestión de los posibles resultados de los ENUMS. Deja de hacer if/else porque no es escalable.
